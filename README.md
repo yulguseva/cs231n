@@ -16,9 +16,9 @@ My solutions for CS231n course by Stanford University. Details about this assign
   * Q4: Convolutional Networks (30 points) - Complete
   * Q5: PyTorch / TensorFlow on CIFAR-10 (10 points) - Complete
   
-#### Assignment 3 - In Progres (85%)
+#### Assignment 3 - Complete (100%)
   * Q1: Image Captioning with Vanilla RNNs (25 points) - Complete
   * Q2: Image Captioning with LSTMs (30 points) - Complete
   * Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images (15 points) - Complete
   * Q4: Style Transfer (15 points) - Complete
-  * Q5: Generative Adversarial Networks (15 points) - In progress
+  * Q5: Generative Adversarial Networks (15 points) - Complete
